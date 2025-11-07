@@ -1,0 +1,1 @@
+# Ezber-Kartlar-Mobil-Uygulamas-
