@@ -1,1 +1,1 @@
-# Ezber-Kartlar-Mobil-Uygulamas-
+# Ezber-Kartlar-Mobil-Uygulamasi
