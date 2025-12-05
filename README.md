@@ -3,10 +3,10 @@
 Bu proje, Mobil Programlama dersi kapsamında geliştirilmekte olan bir ezber kartları (flashcards) uygulamasıdır.
 
 ## Özellikler
-- Kart oluşturma (ön ve arka yüz)
-- Kartları kategoriye göre listeleme
+- Kart oluşturma 
+- Kartların kategoriye göre ayrılması
 - Kart düzenleme ve silme
-- Test modu (geliştirme aşamasında)
+- Test modu 
 - AsyncStorage ile lokal veri saklama
 
 ## Kullanılan Teknolojiler
